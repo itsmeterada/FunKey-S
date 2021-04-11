@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Simple
+Comment=A simple test app
+Exec=simple
+Icon=simple
+Terminal=false
+Categories=applications;
