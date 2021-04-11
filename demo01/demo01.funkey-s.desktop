@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Demo01
+Comment=A simple demo app
+Exec=demo01
+Icon=demo01
+Terminal=false
+Categories=applications;

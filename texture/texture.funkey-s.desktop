@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Texture
+Comment=A simple texture drawing app
+Exec=texture
+Icon=texture
+Terminal=false
+Categories=applications;
