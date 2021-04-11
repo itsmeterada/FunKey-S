@@ -29,7 +29,7 @@ LDFLAGS += -lSDL_ttf -lSDL_image
 	$(CXX) -c $(CXXFLAGS) $*.cpp
 
 $(PROGS): $(OBJS)
-	rm -f $@
+	rm -f $@ *.opk
 	$(CXX) -o $@ $(OBJS) $(LDFLAGS)
 	mksquashfs simple simple.png simple.funkey-s.desktop simple.opk
 
